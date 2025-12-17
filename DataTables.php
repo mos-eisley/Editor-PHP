@@ -11,6 +11,9 @@
  *
  * @see       http://editor.datatables.net
  */
+
+defined('MOODLE_INTERNAL') || die();
+
 define('DATATABLES', true);
 
 //
